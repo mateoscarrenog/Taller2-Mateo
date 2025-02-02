@@ -2,3 +2,6 @@
 
 VariableEjemplo = "Cambio en el archivo"
 print(VariableEjemplo)
+
+VariableEjemplo2 = 10
+print(f"El número {VariableEjemplo2} es divisible entre 2")
