@@ -8,3 +8,7 @@ print(f"El número {VariableEjemplo2} es divisible entre 2")
 
 VariableEjemplo3 = 3.5
 print(f"El tipo de variable de esta variable es: {type(VariableEjemplo3)}")
+
+a = 10
+for _ in range(a):
+    print("bof")
